@@ -1,0 +1,17 @@
+<suite name="sause_demo">
+
+<test name="demo" >
+
+<classes>
+<!--<class name="tests.LoginTest" />
+-->
+<class name="tests.AddToCartTest"/>
+<class name="tests.SortingTest"/>
+<class name="tests.RemoveFromCartTest"/>
+<class name="tests.CheckoutTest"/>
+<class name="tests.CheckOutInfoTest"/>
+<class name="tests.LogOutTest"/>
+</classes>
+</test>
+
+</suite>
