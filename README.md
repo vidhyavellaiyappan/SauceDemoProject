@@ -39,13 +39,17 @@ src/test/java
   ## ▶ Run from Command Line
 
 1. Clone the repository
+   
    git clone https://github.com/vidhyavellaiyappan/SauceDemoProject.git
 
 2. Navigate to project
+
    cd SauceDemoProject
 
 3. Run tests using Maven
+
    mvn test
+
 ## :link:Application Under Test
 https://www.saucedemo.com/
 ## :bust_in_silhouette: Author
