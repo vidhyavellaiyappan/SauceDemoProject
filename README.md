@@ -14,6 +14,11 @@ src/main/java
     pages → Page classes (LoginPage, ProductPage, CartPage, CheckoutPage, CheckoutInfoPage, LogoutPage)
 src/test/java
     tests → Test classes
+## :test_tube:Test Cases Implemented
+- Login Test
+- Add to Cart Test
+- Checkout Flow Test
+- Product Sorting Test
  ## :arrow_forward:How to Run the Tests
 1.Clone the repository
 2.Open the project in Eclipse 
