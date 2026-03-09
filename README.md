@@ -10,9 +10,13 @@ It follows the Page Object Model (POM) design pattern to maintain clean and reus
 - POM(Page Object Model)
 ## :file_folder:Project Structure
 src/main/java
+
     base->baseTest
+    
     pages → Page classes (LoginPage, ProductPage, CartPage, CheckoutPage, CheckoutInfoPage, LogoutPage)
+
 src/test/java
+  
     tests → Test classes
 ## :test_tube:Test Cases Implemented
 - Login Test
@@ -20,9 +24,13 @@ src/test/java
 - Checkout Flow Test
 - Product Sorting Test
  ## :arrow_forward:How to Run the Tests
+
 1.Clone the repository
+
 2.Open the project in Eclipse 
+
 3.Run the TestNG XML file
+
 ## :gear:Framework Features
 - Page Object Model design
 - Reusable methods
